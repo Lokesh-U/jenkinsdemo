@@ -10,7 +10,11 @@ pipeline
                 sh 'pwd'
 
 
-                
+
+
+
+
+
             }
         }
         
