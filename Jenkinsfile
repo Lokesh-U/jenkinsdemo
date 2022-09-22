@@ -8,6 +8,7 @@ pipeline
             {
                 sh 'whoami'
                 sh 'pwd'
+                
             }
         }
         
