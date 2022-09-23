@@ -9,6 +9,8 @@ pipeline
                 sh 'whoami'
                 sh 'pwd'
             }
+            
+            
         }
         
          stage ('Second Stage'){
