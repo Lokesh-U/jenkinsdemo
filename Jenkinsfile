@@ -11,11 +11,6 @@ pipeline
             }
         }
         
-         stage ('Second Stage'){
-            steps
-            {
-                echo 'this is My Second STage'
-            }
-        }
+         
     }
 }
